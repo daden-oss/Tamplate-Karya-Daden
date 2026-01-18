@@ -1,0 +1,6 @@
+/Juragan Tamplate Murah - Beranda
+├── index.html
+├── Untitled-1.css
+├── penelitian-skripsi.png         (Ganti nama dari {028422EF-59B7-453A-BEAE-C424F9B11B40}.png)
+├── affilate-store.png         (Ganti nama dari {2761A24B-AEEB-40D1-8038-353EECD3761E}.png)
+└── bio-kreator.png    (Ganti nama dari {949CEDB1-A614-45B9-A9BD-58BF36141D3B}.png)
